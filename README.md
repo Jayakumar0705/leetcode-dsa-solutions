@@ -1,5 +1,39 @@
-# leetcode-dsa-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode DSA Solutions
+
+> A collection of daily LeetCode DSA solutions, organized by problem with notes, approaches, and complexity analysis.
+
+## 🎯 Goals
+
+- Build strong Data Structures and Algorithms fundamentals
+- Improve problem-solving and logical thinking
+- Learn and apply efficient algorithms
+- Maintain consistent daily coding practice
+- Prepare for technical interviews
+
+## 📚 Topics
+
+- Arrays
+- Strings
+- Hashing
+- Linked Lists
+- Stack & Queue
+- Searching & Sorting
+- Trees
+- Graphs
+- Recursion & Backtracking
+- Dynamic Programming
+
+## 🧠 Problem-Solving Approach
+
+For each problem, I focus on:
+
+1. Understanding the problem
+2. Identifying the appropriate approach
+3. Developing an efficient solution
+4. Analyzing time and space complexity
+5. Testing the solution with different cases
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
