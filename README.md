@@ -42,6 +42,7 @@ For each problem, I focus on:
 | ------- |
 | [0001-two-sum](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ For each problem, I focus on:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
