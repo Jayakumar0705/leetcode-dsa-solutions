@@ -48,13 +48,16 @@ For each problem, I focus on:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
