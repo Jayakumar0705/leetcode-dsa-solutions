@@ -41,6 +41,7 @@ For each problem, I focus on:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ For each problem, I focus on:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
