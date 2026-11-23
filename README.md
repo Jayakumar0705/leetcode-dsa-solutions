@@ -79,6 +79,7 @@ For each problem, I focus on:
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
+| [2543-check-if-point-is-reachable](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/2543-check-if-point-is-reachable) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +92,16 @@ For each problem, I focus on:
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/2543-check-if-point-is-reachable) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/2543-check-if-point-is-reachable) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/2543-check-if-point-is-reachable) |
 <!---LeetCode Topics End-->
