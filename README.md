@@ -41,6 +41,7 @@ For each problem, I focus on:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0001-two-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1672-richest-customer-wealth) |
@@ -67,6 +68,7 @@ For each problem, I focus on:
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -75,9 +77,18 @@ For each problem, I focus on:
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1512-number-of-good-pairs) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
