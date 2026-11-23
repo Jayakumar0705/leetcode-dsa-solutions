@@ -104,4 +104,8 @@ For each problem, I focus on:
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/2543-check-if-point-is-reachable) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Jayakumar0705/leetcode-dsa-solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
